@@ -11,7 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-    Hello World.
-    <h1>wel come</h1>
+    <a href="checkServlet">servletTest</a>
   </body>
 </html>
