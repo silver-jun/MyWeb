@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-    <a href="checkServlet">servletTest</a>
+    <a href="TestServlet">servletTest</a>
   </body>
 </html>
